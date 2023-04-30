@@ -60,7 +60,7 @@ git update-index --assume-unchanged ./playground/play.<language>
 
 ## Applied Mathematics
 
-the applied-mathematics folder contains \<language> code that implements various mathematical concepts and equations. these files cover a range of topics, including linear algebra, calculus, probability, and more.
+the `applied-mathematics` folder contains \<language> code that implements various mathematical concepts and equations. these files cover a range of topics, including linear algebra, calculus, probability, and more.
 
 ## Contributing
 
